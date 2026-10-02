@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://yourserver.com/QC_Manager.exe",
+  "version": "1"
+  "download_url": "https://github.com/shany8102/QC/releases/tag/version1",
   "release_notes": "...",
-  "contact_email": "support@example.com",
+  "contact_email": "localappdata@example.com",
   "mandatory": false,
   "sha256": "<optional hex digest of the exe>"
 }
