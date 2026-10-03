@@ -1,6 +1,6 @@
 {
-  "version": "1.1"
-  "download_url": "https://github.com/shany8102/QC/releases/download/v1.1/QC_Manager_Setup_1.1.exe",
+  "version": "1.1.0"
+  "download_url": "https://github.com/shany8102/QC/releases/download/v1.1.0/QC_Manager_Setup_1.1.exe",
   "release_notes": "...",
   "contact_email": "localappdata@example.com",
   "mandatory": false,
