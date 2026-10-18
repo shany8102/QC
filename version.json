@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "download_url": "https://github.com/shany8102/QC/releases/download/1.4.1/QC_Manager_Setup_1.4.1.exe",
-  "release_notes": "Updating fixes and improvements",
+  "version": "1.5.0",
+  "download_url": "https://github.com/shany8102/QC/releases/download/1.5.0/QC_Manager_Setup_1.5.0.exe",
+  "release_notes": "Updating theme",
   "contact_email": "shantiaaa815454@gmail.com",
   "mandatory": false,
   "sha256": ""
